@@ -1,0 +1,15 @@
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.csproj.AssemblyReference.cache
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.AssemblyInfoInputs.cache
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.AssemblyInfo.cs
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.csproj.CoreCompileInputs.cache
+C:\geek brains\Seminar4\task24\bin\Debug\net6.0\task24.exe
+C:\geek brains\Seminar4\task24\bin\Debug\net6.0\task24.deps.json
+C:\geek brains\Seminar4\task24\bin\Debug\net6.0\task24.runtimeconfig.json
+C:\geek brains\Seminar4\task24\bin\Debug\net6.0\task24.dll
+C:\geek brains\Seminar4\task24\bin\Debug\net6.0\task24.pdb
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.dll
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\refint\task24.dll
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.pdb
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\task24.genruntimeconfig.cache
+C:\geek brains\Seminar4\task24\obj\Debug\net6.0\ref\task24.dll
