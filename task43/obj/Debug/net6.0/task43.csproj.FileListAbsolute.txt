@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminsr4HW\Seminars\task43\bin\Debug\net6.0\task43.exe
+C:\GeekBrains\Seminsr4HW\Seminars\task43\bin\Debug\net6.0\task43.deps.json
+C:\GeekBrains\Seminsr4HW\Seminars\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\GeekBrains\Seminsr4HW\Seminars\task43\bin\Debug\net6.0\task43.dll
+C:\GeekBrains\Seminsr4HW\Seminars\task43\bin\Debug\net6.0\task43.pdb
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.dll
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\refint\task43.dll
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.pdb
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\GeekBrains\Seminsr4HW\Seminars\task43\obj\Debug\net6.0\ref\task43.dll
